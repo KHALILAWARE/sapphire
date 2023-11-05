@@ -46,7 +46,7 @@ MYIP=$(curl -sS ipv4.icanhazip.com)
 echo -e "\e[32mloading...\e[0m"
 clear
 
-# Valid Script
+ Valid Script
 # VALIDITY() {
 #   today=$(date -d "0 days" +"%Y-%m-%d")
 #    Exp1=$(curl https://raw.githubusercontent.com/${GitUser}/allow/main/ipvps.conf | grep $MYIP | awk '{print $4}')
